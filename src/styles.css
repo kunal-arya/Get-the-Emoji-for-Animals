@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#emojiMeaning {
+  color: blue;
+}
+
+#h3heading {
+  background-color: blue;
+  color: white;
+  padding: 1rem;
+  margin: 1rem;
+  font-size: 1.4rem;
+}
